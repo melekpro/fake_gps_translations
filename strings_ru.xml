@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">Listick Fake GPS</string>
+    <string name="title_activity_maps">Карта</string>
+    <string name="kremlin_name">Кремль</string>
+    <string name="search">Поиск!</string>
+    <string name="amaco_sats_error">Amaco Satelites ошибка</string>
+    <string name="spoofing_locations">Подмениваем местоположение.</string>
+    <string name="select_place">Вы не выбрали местоположение</string>
+    <string name="title_activity_settings">SettingместоположениеsActivity</string>
+    <string name="settings">Настройки</string>
+    <string name="replace_address">Заменять адрес на координаты.</string>
+    <string name="continue_text">Продолжить</string>
+    <string name="successful_spoof">Успешно подменено!</string>
+    <string name="permissions">Разрешения</string>
+    <string name="need_permissions">Для продолжения работы предоставьте следующие разрешения: </string>
+    <string name="error_get_currentloc">Не удалось получить текущее местоположение.</string>
+    <string name="mock_location_permission">Фиктивные Местоположения</string>
+    <string name="open_developer_settings">Включить Фиктивные местоположения</string>
+    <string name="unknown_error">Неизвестная ошибка</string>
+    <string name="search_by_coordinates">Поиск по координатам</string>
+    <string name="Address">Адрес:</string>
+    <string name="enter_value">Введите значение!</string>
+    <string name="settings_of_accuracy">Точность: ±%1$s</string>
+    <string name="enter_accuracy_value">Точность будет варьироваться.</string>
+    <string name="enter_updates_time_value">Разница времени в секундах.</string>
+    <string name="accuracy_settings">Точность</string>
+    <string name="gps_updates_delay_name">Разница времени</string>
+    <string name="gps_updates_delay">Разница времени: %1$s сек.</string>
+    <string name="route_settings">Маршрут</string>
+    <string name="cancel">Отмена</string>
+    <string name="mock_locations">Фиктивные местоположения</string>
+    <string name="where_to">Куда?</string>
+    <string name="from">От: %1$s</string>
+    <string name="copyright">© Участники OpenStreetMaps | Wikimedia Maps</string>
+    <string name="origin">Откуда</string>
+    <string name="destination">Куда</string>
+    <string name="mock_loc_is_disabled">Фиктивные местоположения отключены в настройках.</string>
+    <string name="select_on_map">Указать на карте</string>
+    <string name="search_name">Поиск</string>
+    <string name="about_of_the_app">О приложении</string>
+    <string name="brake_at_turning">Тормозить перед поворотами</string>
+    <string name="give_mock_lock_permission">Для подмены координат, пожалуйста предоставьте разрешение Фиктивные Местоположения в настройках разработчика.</string>
+    <string name="find_and_select_app">Найдите пункт Фиктивные Местоположения нажмите, и выберите Listick Fake GPS.</string>
+    <string name="speed">Скорость</string>
+    <string name="difference">Разность</string>
+    <string name="version">Версия</string>
+    <string name="last_update">Последнее обновление</string>
+    <string name="last_update_date">Июнь 2019</string>
+    <string name="listick_description">Listick Fake GPS приложение, которое может подменивать ваше местоположение, также есть возможность построения маршрутов.</string>
+    <string name="no_internet">Отсувствует соединение с интернетом</string>
+    <string name="building_route">Пожалуйста подождите. Построение маршрута…</string>
+    <string name="failed_to_define_address">Не удалось определить адрес.</string>
+    <string name="kiloabbr">км/ч</string>
+    <string name="milesabbr">миль/ч</string>
+    <string name="meterabbr">м/с</string>
+    <string name="location">Местоположение</string>
+    <string name="location_perm_description">Для определения Вашего местоположения.</string>
+    <string name="storage">Память</string>
+    <string name="for_caching_map_tiles">Для кэширования данных</string>
+    <string-array name="unitList">
+        <item>Метры</item>
+        <item>Километры</item>
+        <item>Мили</item>
+    </string-array>
+    <string name="where_from">Откуда?</string>
+    <string name="information">Информация</string>
+    <string name="please_wait">Пожалуйста подождите...</string>
+    <string name="error_grant_su_permission">Ошибка получения прав суперпользователя.</string>
+    <string name="make_system_app">Сделать системным приложением</string>
+    <string name="make_non_system_app">Сделать пользовательским.</string>
+    <string name="okay">OK</string>
+    <string name="experemental_feature">Эксперементальная функция!</string>
+    <string name="system_mover_description">Эта функция является экспериментальной и может привести к ошибке (Требуются права суперпользователя)</string>
+    <string name="confirmation">Подтверждение</string>
+    <string name="go_to_confirm_text">Вы действительно хотите начать подмену местоположения?</string>
+    <string name="open_video">Посмотреть видео</string>
+    <string name="open_settings">Открыть настройки</string>
+    <string name="back">Назад</string>
+    <string name="developer_options_disabled">Функции разработчика отключены!</string>
+    <string name="developer_options_instruction">1) Перейдите в настройки<![CDATA[<br>]]>2) Найдите пункт "О телефоне"<![CDATA[<br>]]>3) Найдите пунт "Номер сборки" и нажмите 7 раз<![CDATA[<br>]]>4) Вернитесь в основное окно настроек и найдите пункт "Для разработчиков"<![CDATA[<br>]]>5) Найдите пункт "Фиктивные местоположения" или "Симуляция местоположения"<![CDATA[<br>]]>6) Нажмите и выберите Listick Fake GPS.</string>
+    <string name="developer_options_instruction_miui">1) Перейдите в настройки<![CDATA[<br>]]>2) Найдите пункт "О телефоне"<![CDATA[<br>]]>3) Найдите пунт "Версия MIUI" и нажмите 5-7 раз<![CDATA[<br>]]>4) Вернитесь в основное окно настроек и найдите пункт "Для разработчиков"<![CDATA[<br>]]>5) Найдите пункт "Фиктивные местоположения"<![CDATA[<br>]]>6) Нажмите и выберите Listick Fake GPS.</string>
+    <string name="miui_developer_instruction_link">https://www.youtube.com/watch?v=WjH6Y3oXrRY</string>
+    <string name="aosp_developer_instruction_link">https://www.youtube.com/watch?v=XvIodXALSYg</string>
+    <string name="error_dest_loc">Ошибка получения адреса места назначения.</string>
+    <string name="switch_dark_theme">Включить темную тему</string>
+    <string name="switch_light_theme">Включить светлую тему</string>
+    <string name="error">Предупреждение</string>
+    <string name="stop">Остановить</string>
+    <string name="search_locked_description">У Вас уже построен или активирован статический режим, остановите текущие операции для перехода в поиск.</string>
+</resources>

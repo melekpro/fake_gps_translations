@@ -1,0 +1,87 @@
+<resources>
+  <string name="app_name">Listick Fake GPS</string>
+  <string name="title_activity_maps">Map</string>
+  <string name="search">Search!</string>
+  <string name="settings">Settings</string>
+  <string name="replace_address">Replace search address to coordinates after press return</string>
+  <string name="continue_text">Continue</string>
+  <string name="successful_spoof">Spoofing successful!</string>
+  <string name="permissions">Permissions</string>
+  <string name="need_permissions">Listick Fake GPS is need some permissions for normal work, please grant next permissions:</string>
+  <string name="error_get_currentloc">Error to get current location.</string>
+  <string name="mock_location_permission">Mock Locations Permission</string>
+  <string name="open_developer_settings">Enable Mock Locations</string>
+  <string name="unknown_error">Unknown error</string>
+  <string name="search_by_coordinates">Search by coordinates</string>
+  <string name="Address">Address:</string>
+  <string name="enter_value">Enter value!</string>
+  <string name="settings_of_accuracy">Settings of accuracy: ±%1$s</string>
+  <string name="enter_accuracy_value">Please write this field only digits, and you value is approximate.</string>
+  <string name="enter_updates_time_value">Updates delay in seconds</string>
+  <string name="accuracy_settings">Accuracy Settings</string>
+  <string name="gps_updates_delay_name">GPS Updates Delay</string>
+  <string name="gps_updates_delay">GPS Updates delay: %1$s sec.</string>
+  <string name="route_settings">Route Settings</string>
+  <string name="cancel">Cancel</string>
+  <string name="mock_locations">Mock Locations</string>
+  <string name="where_to">Where to?</string>
+  <string name="from">From: %1$s</string>
+  <string name="copyright">© OpenStreetMap contributors | Wikimedia Maps</string>
+  <string name="origin">Origin</string>
+  <string name="destination">Destination</string>
+  <string name="mock_loc_is_disabled">Mock Locations is disabled in settings.</string>
+  <string name="select_on_map">Select on Map</string>
+  <string name="search_name">Search</string>
+  <string name="about_of_the_app">About the app</string>
+  <string name="brake_at_turning">Brake at turning</string>
+  <string name="give_mock_lock_permission">Listick Fake GPS for spoofing location is need Mock Location permission, please grant the permission in Developer Settings.</string>
+  <string name="find_and_select_app">Find item Mock Location, click him, after select Listick Fake GPS and open this app again.</string>
+  <string name="speed">Speed</string>
+  <string name="difference">Difference</string>
+  <string name="version">Version</string>
+  <string name="last_update">Last Update</string>
+  <string name="last_update_date">June 2019</string>
+  <string name="listick_description">Listick Fake GPS is app for spoofing you current locations with routing feature.</string>
+  <string name="no_internet">No internet connection</string>
+  <string name="building_route">Please wait. Building Route...</string>
+  <string name="failed_to_define_address">Failed to define address</string>
+  <string name="kiloabbr">kph</string>
+  <string name="milesabbr">mph</string>
+  <string name="meterabbr">m/s</string>
+  <string name="location">Location</string>
+  <string name="location_perm_description">For define you current location</string>
+  <string name="storage">Storage</string>
+  <string name="for_caching_map_tiles">For caching map tiles</string>
+  <string-array name="unitList">
+    <item>Meters</item>
+    <item>Kilometers</item>
+    <item>Miles</item>
+  </string-array>
+  <string name="where_from">Where from?</string>
+  <string name="information">Information</string>
+  <string name="please_wait">Please wait...</string>
+  <string name="error_grant_su_permission">Error superuser access.</string>
+  <string name="make_system_app">Make system app</string>
+  <string name="make_non_system_app">Make non-system app</string>
+  <string name="okay">OK</string>
+  <string name="experemental_feature">Experemental Feature!</string>
+  <string name="system_mover_description">This feature is experemental and might error (Root needed)</string>
+  <string name="confirmation">Confirmation</string>
+  <string name="go_to_confirm_text">You really want to start location spoofing?</string>
+  <string name="open_video">Watch video</string>
+  <string name="open_settings">Open settings</string>
+  <string name="back">Back</string>
+  <string name="developer_options_disabled">Developer options is disabled!</string>
+  <string name="developer_options_instruction">1) Go to Settings<![CDATA[<br>]]>2) Find "About Phone" click<![CDATA[<br>]]>3) Find and tap 7 times on item "Build Number"<![CDATA[<br>]]>4) Return general menu of settings and click "Developer Options"<![CDATA[<br>]]>5) Find item "Mock Locations" or "Simulate Locations"<![CDATA[<br>]]>6) Tap, and select Listick Fake GPS.</string>
+  <string name="developer_options_instruction_miui">1) Go to Settings<![CDATA[<br>]]>2) Find "About Phone" click<![CDATA[<br>]]>3) Find and tap 7 times on item "Build Number"<![CDATA[<br>]]>4) Return general menu of settings and click "Developer Options"<![CDATA[<br>]]>5) Find item "Mock Locations"<![CDATA[<br>]]>6) Tap, and select Listick Fake GPS.</string>
+  <string name="miui_developer_instruction_link">https://www.youtube.com/watch?v=bjntq8-72hw</string>
+  <string name="aosp_developer_instruction_link">https://www.youtube.com/watch?v=uMjyb3wf1Lw</string>
+  <string name="error_dest_loc">Could not to fetch destination address</string>
+  <string name="switch_dark_theme">Switch on dark theme</string>
+  <string name="switch_light_theme">Switch on light theme</string>
+  <string name="error">Error</string>
+  <string name="stop">Stop</string>
+  <string name="search_locked_description">You have one built route or activated static mode, you can stop and start spoofing again</string>
+<string name="translated_by">Translated by:</string>
+<string name="Credits">Credits</string>
+</resources>

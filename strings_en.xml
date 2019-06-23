@@ -12,9 +12,9 @@
   <string name="mock_location_permission">إمواقع وهمية</string>
   <string name="open_developer_settings">تمكين وهمية Locations</string>
   <string name="unknown_error">Unknown error</string>
-  <string name="search_by_coordinates">Search by coordinates</string>
-  <string name="Address">Address:</string>
-  <string name="enter_value">Enter value!</string>
+  <string name="search_by_coordinates">البحث عن الإحداثيات</string>
+  <string name="Address">عنوان:</string>
+  <string name="enter_value">أدخل القيمة!</string>
   <string name="settings_of_accuracy">Settings of accuracy: ±%1$s</string>
   <string name="enter_accuracy_value">Please write this field only digits, and you value is approximate.</string>
   <string name="enter_updates_time_value">Updates delay in seconds</string>
